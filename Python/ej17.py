@@ -2,15 +2,11 @@ horas = int(input('Introduce las horas de la salida: '))
 minutos = int(input('Introduce los minutos de la salida: '))
 segundos = int(input('Introduce los segundos de la salida: '))
 
-duraciónViaje = int(input('¿Cuántos segundos dura su viaje? '))
+horaDeSalidaEnSeg = horas * 3600 + minutos * 60 + segundos
 
-horasEnSegundos = horas * 3600
+duracionViajeEnSeg = int(input('¿Cuántos segundos dura su viaje? '))
 
-minutosEnSegundos = minutos * 60
-
-horaDeSalida = horasEnSegundos + minutosEnSegundos + segundos
-
-horaDeLlegadaEnSeg = horaDeSalida + duraciónViaje
+horaDeLlegadaEnSeg = horaDeSalidaEnSeg + duracionViajeEnSeg
 
 horasLlegada = horaDeLlegadaEnSeg // 3600
 
