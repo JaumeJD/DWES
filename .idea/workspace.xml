@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7d85180-4eef-4f6d-958f-7ecc027a11e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mysite/buscaminas/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysite/buscaminas/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/buscaminas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/buscaminas/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2WymfaNLF9AfXg0PG9OuDnWHdu6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697713299690</updated>
       <workItem from="1697713304855" duration="113000" />
-      <workItem from="1697713444672" duration="1737000" />
+      <workItem from="1697713444672" duration="6640000" />
     </task>
     <servers />
   </component>
