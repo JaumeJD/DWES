@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c1b97e5-b186-4d05-a6b7-21d6cf3a0b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/buscaminas/templates/create_table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buscaminas/templates/form_table.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buscaminas/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscaminas/templates/create_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscaminas/templates/create_table.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/buscaminas/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buscaminas/templates/tabla.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/buscaminas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buscaminas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/views.py" afterDir="false" />
     </list>
@@ -31,19 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
       <module name="mysite" />
@@ -51,6 +51,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mysite.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -78,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1697710540741</updated>
       <workItem from="1697710542446" duration="205000" />
-      <workItem from="1698129436829" duration="8411000" />
+      <workItem from="1698129436829" duration="8486000" />
+      <workItem from="1698156149002" duration="8749000" />
     </task>
     <servers />
   </component>
