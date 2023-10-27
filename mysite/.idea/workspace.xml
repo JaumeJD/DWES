@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c1b97e5-b186-4d05-a6b7-21d6cf3a0b38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/buscaminas/templates/form_table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buscaminas/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buscaminas/templates/create_form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/buscaminas/templates/create_table.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/buscaminas/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buscaminas/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buscaminas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="2c1b97e5-b186-4d05-a6b7-21d6cf3a0b38" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +71,7 @@
       <updated>1697710540741</updated>
       <workItem from="1697710542446" duration="205000" />
       <workItem from="1698129436829" duration="8486000" />
-      <workItem from="1698156149002" duration="8749000" />
+      <workItem from="1698156149002" duration="9412000" />
     </task>
     <servers />
   </component>
