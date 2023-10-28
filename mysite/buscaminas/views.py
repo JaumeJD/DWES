@@ -16,11 +16,11 @@ def form_table(request):
         filas = int(table_form_param.cleaned_data['rows'])
         columnas = int(table_form_param.cleaned_data['cols'])
 
-        filasRange = range(filas)
-        columnasRange = range(columnas)
+        filasrange = range(filas)
+        columnasrange = range(columnas)
 
-        return render(request, 'form_table.html', {'filas': filasRange,
-                                                   'columnas': columnasRange, 'tablaparam': table_form_param})
+        return render(request, 'form_table.html', {'filas': filasrange,
+                                                   'columnas': columnasrange, 'tablaparam': table_form_param})
     else:
 
         return render(request, 'form_table.html', {'tabla': table_form})
