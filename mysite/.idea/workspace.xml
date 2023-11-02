@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2c1b97e5-b186-4d05-a6b7-21d6cf3a0b38" name="Changes" comment="" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="2c1b97e5-b186-4d05-a6b7-21d6cf3a0b38" name="Changes" comment="" />
+=======
+    <list default="true" id="2c1b97e5-b186-4d05-a6b7-21d6cf3a0b38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscaminas/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscaminas/templates/form_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/templates/form_table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buscaminas/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/buscaminas/views.py" afterDir="false" />
+    </list>
+>>>>>>> 138ec309eb155bea89d24b51c4acd9f7b3326cf3
+>>>>>>> b16417c58cd399f5f0cd219f24d2013ee0c09035
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,8 +87,16 @@
       <updated>1697710540741</updated>
       <workItem from="1697710542446" duration="205000" />
       <workItem from="1698129436829" duration="8486000" />
+<<<<<<< HEAD
+      <workItem from="1698156149002" duration="9412000" />
+=======
       <workItem from="1698156149002" duration="8749000" />
+<<<<<<< HEAD
       <workItem from="1698222559095" duration="6328000" />
+=======
+      <workItem from="1698222559095" duration="5654000" />
+>>>>>>> 138ec309eb155bea89d24b51c4acd9f7b3326cf3
+>>>>>>> b16417c58cd399f5f0cd219f24d2013ee0c09035
     </task>
     <servers />
   </component>
