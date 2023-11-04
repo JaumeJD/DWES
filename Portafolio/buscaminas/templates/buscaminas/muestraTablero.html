@@ -8,7 +8,16 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Mostrar tablero</title>
 </head>
-<body>
-
+<body style="margin: 20px">
+Filas: {{ filas }} / Columnas: {{ columnas }} / Minas: {{ minas }}
+<table style="border: 1px solid black; margin-top: 10px" cellpadding="0" cellspacing="0">
+    {% for filas in rangoF %}
+        <tr style="height: 20px">
+            {% for columnas in rangoC %}
+                <td style="width: 20px; border: 1px solid black"></td>
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
 </body>
 </html>
