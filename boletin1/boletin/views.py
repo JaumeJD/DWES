@@ -15,6 +15,7 @@ def tu_vista(request):
             return redirect('alguna_vista_exitosa')
     else:
         # Setear la marca de tiempo cuando se carga el formulario
+        # PD: Es posible que se pueda/deba hacer en las validaciones de forms.
         form = Formulario(initial={'timestamp': timezone.now()})
 
     return render(request, 'tu_template.html', {'form': form})
